@@ -95,7 +95,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
 
 ## 🐍 Watch My Code Learn and Evolve!
 > My commits aren’t just code — they’re intelligent moves in the data universe 🚀 <br/>
-> From data to intelligence — watch how my commits grow, learn, and adapt 🧠
+> Watch how my commits grow, learn, and adapt 🧠
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/abdessamad-chahbi/abdessamad-chahbi/output/snake.svg" alt="Snake animation" />
