@@ -80,7 +80,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
 
 <p align="center">
   <!-- 🧠 Data Science & AI -->
-  <img src="https://skillicons.dev/icons?i=python,ai,git,github,vscode,tensorflow,sklearn,opencv,npm,pytorch,qt,regex,gitlab,matlab,aiscript" />
+  <img src="https://skillicons.dev/icons?i=python,ai,git,github,vscode,tensorflow,sklearn,opencv,npm,pytorch,qt,regex,gitlab,matlab" /> <!-- aiscript -->
   <!-- 💻 Full Stack Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,react,nodejs,bootstrap,java,spring,maven,mysql,mongodb,postman" /> <!-- bash,cpp,figma -->
   <!-- 🧠 BI, Big Data & Cloud Computing -->
