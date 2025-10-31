@@ -84,7 +84,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
   <!-- 💻 Full Stack Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,react,nodejs,bootstrap,java,spring,maven,mysql,mongodb,postman" /> <!-- bash,cpp,figma -->
   <!-- 🧠 BI, Big Data & Cloud Computing -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,cloudflare,gcp,aws,azure,sass,visualstudio,ubuntu,linux,yarn,elasticsearch" /> <!-- selenium -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,cloudflare,gcp,aws,azure,sass,visualstudio,ubuntu,linux,yarn,elasticsearch" /> <!-- selenium, grafana -->
 </p>
 
 ###
