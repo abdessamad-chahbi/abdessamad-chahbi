@@ -1,6 +1,6 @@
    
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-alt="Waving hand animated gif" height="40" width="45"/> , I'm Abdessamad Chahbi</h1>
+alt="Waving hand animated gif" height="50" width="50"/> , I'm Abdessamad Chahbi</h1>
 <h3 align="center">🧠 Data Scientist | 🤖 AI & Machine Learning Engineer | 💻 Full-Stack Developer</h3> 
 <h3 align="center">Driven by curiosity, creativity, and innovation from Morocco 🇲🇦</h3>
 
