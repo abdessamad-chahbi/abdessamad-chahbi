@@ -4,7 +4,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
 <h3 align="center">🧠 Data Scientist | 🤖 AI & Machine Learning Engineer | 💻 Full-Stack Developer</h3> 
 <h3 align="center">Driven by curiosity, creativity, and innovation from Morocco 🇲🇦</h3>
 
-<!-- ============================== -->
+<!-- ============================= -->
 <!-- ✨ Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
