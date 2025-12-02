@@ -16,7 +16,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
 
 <!-- 👁️ GitHub Profile View Counter --> 
 <p align="center">
-  <img width="145px" src="https://komarev.com/ghpvc/?username=abdessamad-chahbi&style=flat-square&color=58A6FF" />
+  <img width="155px" src="https://komarev.com/ghpvc/?username=abdessamad-chahbi&style=flat-square&color=58A6FF" />
 </p>
 
 
