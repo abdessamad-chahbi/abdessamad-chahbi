@@ -10,7 +10,7 @@ alt="Waving hand animated gif" height="45" width="45"/> , I'm Abdessamad Chahbi<
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<p align="center"> 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Data%20Scientist;Full-Stack%20Developer;Spring%20Boot%20%7C%20Angular%20%7C%20React;Deep%20Learning%20%7C%20NLP%20%7C%20Computer%20Vision;Building%20Intelligent%20%26%20Scalable%20Systems!&font=Pacifico&center=true&width=750&height=60&color=58A6FF&vCenter=true&size=45" />
 </p>
 
